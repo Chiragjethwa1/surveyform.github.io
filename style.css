@@ -4,7 +4,8 @@
   scroll-behavior: smooth;
   color: white;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  box-sizing: border-box;    
+  box-sizing: border-box;  
+  scroll-behavior: smooth;  
 }
 
 
